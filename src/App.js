@@ -4,7 +4,7 @@ import MyComponent from './MyComponent'
 function App() {
   
   return (
-    <MyComponent name="React"/>
+    <MyComponent>리액트</MyComponent>
   );
 }
 
